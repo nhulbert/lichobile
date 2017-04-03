@@ -1,3 +1,4 @@
+import * as Set from 'es6-set'
 import { standardFen } from '../utils/fen'
 
 interface DocVariant {
